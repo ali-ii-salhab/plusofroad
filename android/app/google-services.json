@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043687718257",
+    "project_id": "pulse-of-the-road",
+    "storage_bucket": "pulse-of-the-road.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043687718257:android:a2d731daffd956747e0ad0",
+        "android_client_info": {
+          "package_name": "com.example.plusofroad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-kaibsDxwHBgy9iL19GoBJ1ZPbSHbw44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
